@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+		<file>main.qml</file>
+		<file>types/ImageButton.qml</file>
+		<file>OSDStatusWidget.qml</file>
+
+		<file>images/osd_bg_top_media.png</file>
+		<file>images/osd_bg_top_phone.png</file>
+		<file>images/osd_bg_top_setting.png</file>
+		<file>images/osd_home_btn_n.png</file>
+		<file>images/osd_home_btn_p.png</file>
+		<file>images/osd_status_bluetooth.png</file>
+		<file>images/osd_status_carplay.png</file>
+		<file>images/osd_status_iap.png</file>
+		<file>images/osd_status_sdmmc.png</file>
+		<file>images/osd_status_usb.png</file>
+		<file>images/osd_status_aux.png</file>
+		<file>images/osd_time_am.png</file>
+		<file>images/osd_time_dot.png</file>
+		<file>images/osd_time_num_0.png</file>
+		<file>images/osd_time_num_1.png</file>
+		<file>images/osd_time_num_2.png</file>
+		<file>images/osd_time_num_3.png</file>
+		<file>images/osd_time_num_4.png</file>
+		<file>images/osd_time_num_5.png</file>
+		<file>images/osd_time_num_6.png</file>
+		<file>images/osd_time_num_7.png</file>
+		<file>images/osd_time_num_8.png</file>
+		<file>images/osd_time_num_9.png</file>
+		<file>images/osd_time_pm.png</file>
+		<file>images/osd_vol_down_btn_n.png</file>
+		<file>images/osd_vol_down_btn_p.png</file>
+		<file>images/osd_vol_gage_00.png</file>
+		<file>images/osd_vol_gage_01.png</file>
+		<file>images/osd_vol_gage_02.png</file>
+		<file>images/osd_vol_gage_03.png</file>
+		<file>images/osd_vol_gage_04.png</file>
+		<file>images/osd_vol_gage_05.png</file>
+		<file>images/osd_vol_gage_06.png</file>
+		<file>images/osd_vol_gage_07.png</file>
+		<file>images/osd_vol_gage_08.png</file>
+		<file>images/osd_vol_gage_09.png</file>
+		<file>images/osd_vol_gage_10.png</file>
+		<file>images/osd_vol_mute_btn_n.png</file>
+		<file>images/osd_vol_mute_btn_p.png</file>
+		<file>images/osd_vol_up_btn_n.png</file>
+		<file>images/osd_vol_up_btn_p.png</file>
+    </qresource>
+</RCC>
